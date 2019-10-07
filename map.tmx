@@ -96,12 +96,12 @@
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <layer id="1" name="Platforms" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eAFjYBgFoyEwGgKjITCwIcADtZ6XgDOYgfIgzI+mDqafC00cxgXJC0M5QkBaHIhZoHxclAiSGmkgWxBNoQSQLwkVw2UvmpYhzWUd0q5Hdfxw8gs70GscQMwJxAAQ5QEy
+   eAHtUdEKg0AMc7jNzdsQdbCJ//+fJqyBcvTBl77dQUh7TYkXS5d/Sr5F1zzOhcycsrNqHuf+BVUtq39WL4vsbRwRs+oNUyXQ/ljdq+V8tWYBf4Gr9Z7ocTF8wNLsqGfAnx+azS7oqz1eqSbXx3tIJ02k14zs9aqjnQyPm/8Q1Bke9VuyPPxbsjz8WyKPOzIkqFMdMefSqPY8YP4AnsABb7QC4A==
   </data>
  </layer>
  <layer id="2" name="Coins" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eAFjYBgFoyEwGgKjITD8QkCUTC8xAvWBMKkAWR+MjcscXPK41MPcAtMH4sPYuPTgkselfjDYgc1t1PYHvexAt4cW/kC3AwCcCABZ
+   eAFjYBgFoyEwGgJDOQSkBpnjcbkHlzgu5xNST0heFJfBw1ScUHgMJW+P+oW82AIAZEoA5g==
   </data>
  </layer>
 </map>

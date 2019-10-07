@@ -1,7 +1,7 @@
 # E06b-Tiles
 Playing with the Tiled Map Editor
 
-The map editor was glitchy and claims weird things are coins and also doesn't want to erase some of the tiles. So don't really know whats going on there. Otherwise I just made a simple map with some jumps and such. Nothing special. I messed with the scaling and placement of the character in the code cuz is was a bit big and kept spawning in a gap between platforms so. 
+I just made a simple map with some jumps and such. Nothing special. I messed with the scaling and placement of the character in the code cuz is was a bit big and kept spawning in a gap between platforms so. 
 
 
 
