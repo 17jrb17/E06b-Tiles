@@ -1,7 +1,10 @@
 # E06b-Tiles
 Playing with the Tiled Map Editor
 
-This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
+The map editor was glitchy and claims weird things are coins and also doesn't want to erase some of the tiles. So don't really know whats going on there. Otherwise I just made a simple map with some jumps and such. Nothing special. I messed with the scaling and placement of the character in the code cuz is was a bit big and kept spawning in a gap between platforms so. 
+
+
+
 
  * Download the Tiled Map Editor at [https://www.mapeditor.org](https://www.mapeditor.org). Follow the links to "Download at itch.io", click the "Download Now" button. Feel free to donate, or click the "No thanks, just take me to the downloads" link. Then download the version appropriate for your computer. *If you are using a computer in the lap, make sure you download "Tiled for Windows (64-bit), snapshot"*
  * In this repository, you will find a map.tmx file. This is set up with some initial tiles (in the assets folder) for you to create an orthogonal map. Open map.tmx in Tiled.
